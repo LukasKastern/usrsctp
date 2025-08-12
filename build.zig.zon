@@ -1,6 +1,6 @@
 .{
-    .name = .libjuice,
-    .version = "1.6.1",
+    .name = .usrsctp,
+    .version = "0.9.5.0",
     .fingerprint = 0x219afa4f80155f7,
     .dependencies = .{
         .usrsctp = .{
