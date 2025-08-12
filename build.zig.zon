@@ -1,6 +1,6 @@
 .{
     .name = .usrsctp,
-    .version = "0.9.5.0",
+    .version = "0.9.5",
     .fingerprint = 0x219afa4f80155f7,
     .dependencies = .{
         .usrsctp = .{
