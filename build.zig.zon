@@ -1,0 +1,16 @@
+.{
+    .name = .libjuice,
+    .version = "1.6.1",
+    .fingerprint = 0x219afa4f80155f7,
+    .dependencies = .{
+        .usrsctp = .{
+            .url = "git+https://github.com/paullouisageneau/usrsctp.git#fec583d54493f879d2ae44a743423bf8a04371ab",
+            .hash = "N-V-__8AALAGWACeA2U3iSwHwHdWNrq6RB1I8N80fRDQYjrw",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+    },
+}
