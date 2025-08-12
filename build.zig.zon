@@ -1,7 +1,7 @@
 .{
     .name = .usrsctp,
     .version = "0.9.5",
-    .fingerprint = 0x219afa4f80155f7,
+    .fingerprint = 0x5d55bf7c40d67c0,
     .dependencies = .{
         .usrsctp = .{
             .url = "git+https://github.com/paullouisageneau/usrsctp.git#fec583d54493f879d2ae44a743423bf8a04371ab",
